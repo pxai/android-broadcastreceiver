@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\code\tmp\a\AndroidBroadcastReceiver\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc0ba73f236a66af11d23cec600163f6dbe2dcb5">
+        <dex dex="C:\code\tmp\a\AndroidBroadcastReceiver\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_610c38d840e3c23465732ac229746e8ccd8b50bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PELLO_ALTADILL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\code\tmp\a\AndroidBroadcastReceiver\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_542682739f2e11bc753ecfe5474856521f5a3cfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\code\tmp\a\AndroidBroadcastReceiver\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3409c8dd0db8c319ea4c79701835f82886e7c1a8">
+        <dex dex="C:\code\tmp\a\AndroidBroadcastReceiver\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_63228c04f12b5f914f43125a2ba23405fed6d71c\classes.dex" />
+    </item>
+
+</items>
